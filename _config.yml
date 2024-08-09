@@ -1,7 +1,7 @@
-public:
+public: true
 type: "docs"
 
-title:
-description:
+title: "Reading Room Handbook"
+description: "Handbook for supporting onsite research in RAC reading rooms"
 pages:
-  - ["Documentation Title", "index"]
+  - ["Reading Room Handbook", "index"]
