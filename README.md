@@ -1,5 +1,5 @@
-# Docs template
-A template for docs.rockarch.org documentation repositories. Include a short description of the documentation.
+# Reading Room Handbook
+Rockefeller Archive Center guide for staff who support onsite researchers in the reading rooms.
 
 ## Accessing the documentation
 This content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
